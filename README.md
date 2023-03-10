@@ -1,3 +1,3 @@
 # cryptrsa
 
-tome luca fiz para voce
+1.0.0
